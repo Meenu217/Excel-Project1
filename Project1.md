@@ -1,8 +1,8 @@
 Coffee Analytics: Interactive Coffee Sales Dashboard :
-A dynamic, interactive data visualization tool built in Excel to explore global coffee sales performance—focusing on revenue over time, regional market comparisons, customer segments, and product preferences.
+- A dynamic, interactive data visualization tool built in Excel to explore global coffee sales performance—focusing on revenue over time, regional market comparisons, customer segments, and product preferences.
 
 Short Description / Purpose :
-The Coffee Sales Dashboard is a visually engaging and analytical Excel report designed to help stakeholders explore and analyze multi-regional coffee bean transactions. The dashboard focuses on tracking major sales drivers such as revenue trends by coffee type, country-wise performance, top-performing customers, and filterable product attributes (roast type, packaging size, and loyalty card status). This tool is intended for use by sales analysts, business strategists, and decision-makers who seek to understand purchasing trends and characteristics in the global coffee market.
+- The Coffee Sales Dashboard is a visually engaging and analytical Excel report designed to help stakeholders explore and analyze multi-regional coffee bean transactions. The dashboard focuses on tracking major sales drivers such as revenue trends by coffee type, country-wise performance, top-performing customers, and filterable product attributes (roast type, packaging size, and loyalty card status). This tool is intended for use by sales analysts, business strategists, and decision-makers who seek to understand purchasing trends and characteristics in the global coffee market.
 
 - <a href= "https://github.com/Meenu217/Excel-Project1/blob/main/coffeeOrdersData%20project1.xlsx">Dataset View</a>
 
